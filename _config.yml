@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+title: "Daniel Ortiz"
+description: "Portfolio de proyectos de Data Science"
+logo: bio-photo.jpg
+teaser: python2.jpg
 locale: en
 url: https://daorti.github.io/skinny-bones
 feed:
@@ -26,8 +26,8 @@ plugins:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: Daniel Ortiz
+  email: daniel@thebridgeschool.es
   twitter:
   google:
     ad-client:
